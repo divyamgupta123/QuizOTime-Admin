@@ -21,7 +21,7 @@ Here are the glimpse of the UI of the app:-
 <br><br>
 
 <h4>Quiz Submitted</h4>
-<img src = "images/quiz_submitted_image.jpeg" hieght = 400 width = 200/>
+<img src = "images/quiz_submit_image.jpeg" hieght = 400 width = 200/>
 <br><br>
 
 
