@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745184384883",
+    "project_id": "quizotime-admin",
+    "storage_bucket": "quizotime-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745184384883:android:4be27be216cd74ed2d9706",
+        "android_client_info": {
+          "package_name": "com.example.quizotime_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745184384883-l1jc18pd4uievlbrh70s7b4mdj7bj5uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBozOnbKoTUmJwaNF3AZCp3qNNMETxm14s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745184384883-l1jc18pd4uievlbrh70s7b4mdj7bj5uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
